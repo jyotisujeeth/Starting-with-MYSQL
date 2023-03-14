@@ -1,0 +1,20 @@
+# Starting-with-MYSQL
+here we learn concept
+
+Tell me when should you use SQl and when No SQL
+
+
+The difference between SQL and NoSQL databases is really just a comparison of relational vs. non-relational databases. Deciding when to use SQL vs. NoSQL depends on the kind of information you’re storing and the best way to store it. Both types store data, they just store it differently. NoSQL is designed to manage lots of traffic and data.
+
+
+
+ It’s used to communicate with relational databases. Relational databases store data in a very organized, but also rigid way. NoSQL, earning its name by being “not only SQL,” makes storing all different types of data easier. It’s used for its flexibility, speed, and scalability in managing large volumes of data.
+
+
+
+
+
+.What is vertical and horizontal scaling.
+﻿
+
+Scaling is a way to improve the performance and availability of a system by adding more resources.It can be defined as a process to expand the existing configuration (servers/computers) to handle a large number of user requests or manage the load on the server. This process is called scalability.
